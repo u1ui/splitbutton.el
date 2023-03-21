@@ -43,7 +43,7 @@ class splitbutton extends HTMLElement {
             const menu = this.querySelector('menu');
             menu.slot = 'menu';
             menu.setAttribute('u1-focusgroup', 'remember');
-            import('../focusgroup.attr@3.6.0/focusgroup.js');
+            import('../focusgroup.attr@3.0.0/focusgroup.js');
         }, 0);
     }
 }
