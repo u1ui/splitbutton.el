@@ -19,7 +19,7 @@ u1-splitbutton menu {
 u1-splitbutton menu > li {
     list-style:none;
     margin:0;
-    padding:0;
+    padding:.3em;
 }
 u1-splitbutton menu > li > button {
     width:100%;
