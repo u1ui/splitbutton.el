@@ -16,7 +16,9 @@ asdf
 ```
 
 ```css
-u1-splitbutton {
+u1-splitbutton menu {
+   box-shadow:var(--shadow);
+   border:none;
 }
 ```
 
